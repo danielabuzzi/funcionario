@@ -1,6 +1,6 @@
 <?php
 
-//a vantagem é que mantem o formato e garante o tipo de dado. É possivel fazer verificações individualmente
+//a vantagem de usar a classe é que mantem o formato e garante o tipo de dado. É possivel fazer verificações individualmente
 class Data
 {
 	public $dia;
